@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+
 public class DetailList extends AppCompatActivity {
     private String idList;
     //make a Keymap

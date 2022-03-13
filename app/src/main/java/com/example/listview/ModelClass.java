@@ -6,7 +6,7 @@ public class ModelClass {
     private String txtSubList;
     private int imgList;
 
-    //init
+    //Constructor
     public ModelClass(String idList, String txtList, String txtSubList, int imgList){
         this.idList=idList;
         this.txtList=txtList;
